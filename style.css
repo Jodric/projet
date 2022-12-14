@@ -1,0 +1,17 @@
+.container{
+    background-color: red;
+}
+
+h1{
+    font-size: 120px;
+    align-items: center;
+}
+
+h2{
+    font-size: 95px;
+}
+
+p{
+    font-size: 25px;
+    color: white;
+}
